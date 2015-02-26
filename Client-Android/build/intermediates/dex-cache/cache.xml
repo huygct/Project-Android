@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\thuynghi\AndroidStudioProjects\Client-Android\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-9f7a98bd60185c364b794bf54b22764a310aeeae.jar"
+        jar="D:\Data Old\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
